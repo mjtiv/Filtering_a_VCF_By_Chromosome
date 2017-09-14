@@ -1,9 +1,8 @@
-# Filtering_a_VCF_By_Chromosome (python3.6)
+# Filtering_a_VCF_By_Chromosome
 Code to extract a specific chromosome or chromosomes from a VCF file
 
-# Note: Code was Developed in the Abasht Laboratory at the University of Delaware under
-# the supervision of Dr. Behnam Abasht
-# website: http://canr.udel.edu/faculty/behnam-abasht/
+Note: Code was Developed in the Abasht Laboratory at the University of Delaware under the supervision of Dr. Behnam Abasht
+website: "http://canr.udel.edu/faculty/behnam-abasht/"
 
 ####################################Filtering_a_VCF_By_Chromosome######################################
 #################################Code Written by M. Joseph Tomlinson IV########################################
