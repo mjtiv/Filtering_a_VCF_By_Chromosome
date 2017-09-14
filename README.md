@@ -15,11 +15,11 @@ or on a HCP server using the standard HPC UNIX run command of "python Filter_for
 on the command line or qsub file. Please note if the provided VCF file is HUGE, the python program cannot be run
 on a local computer and requires an HPC setting.  
 
-# General Overview of How the Program Runs
+# General Overview Program
 The program parses through the provided VCF file pulling out the header of the data and the specific data from
 the chromosomes of interest from the VCF file.
 
-# Output from the Program
+# Output
 The program outputs two files. The first file is a "VCF_General_Info.txt" file that includes general information
 about how many variants were in the VCF file and also how many datapoints were extracted for the specific chromosome/chromosomes
 of interest. The second file is the actual data of interest extracted from the VCF file, which is made up of the header of the
@@ -28,7 +28,7 @@ data with the specific chromosome variants.
 Note: This is a general VCF parser script that was specifically developed to parse VCF files from GATK pipelines (Fall 2017)
 time period and if new styles of VCF files are introduced the code could break. 
 
-#Files Provided in Repository
+# Files Provided in Repository
 Filter_for_Chromosomes.py (python script to run program)
 Chromosome_Parameter_File.txt (paramter file that users change to change program inputs)
 
