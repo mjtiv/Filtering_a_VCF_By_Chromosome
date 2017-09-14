@@ -37,9 +37,11 @@ File 1. Filter_for_Chromosomes.py (python script to run program)
 File 2. Chromosome_Parameter_File.txt (paramter file that users change to change program inputs)
 
 Example Dataset to Run
+
 File 3. Test_Dataset.txt (Test dataset for a user to try---simplified VCF file)
 
 Example Output from Program
+
 File 4.  Test_Output.txt (example output file after filtering)
 
 File 5. Test_Output_VCF_General_Info.txt (example overview file from program)
