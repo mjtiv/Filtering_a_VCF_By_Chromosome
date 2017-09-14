@@ -1,0 +1,2 @@
+The total number of ALL variants (SNPs and Indels) in file: 470
+The total number of Mitochondrial variants: 218
