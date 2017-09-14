@@ -1,4 +1,4 @@
-#Filtering a VCF By Chromosome (python3.6)
+##Filtering a VCF By Chromosome (python3.6)
 Code Written by M. Joseph Tomlinson IV
 
 Code to extract a specific chromosome or chromosomes from a VCF file
