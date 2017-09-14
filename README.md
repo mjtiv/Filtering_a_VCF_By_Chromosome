@@ -1,4 +1,7 @@
-# Filtering_a_VCF_By_Chromosome by M. Joseph Tomlinson IV
+# Filtering_a_VCF_By_Chromosome 
+
+by M. Joseph Tomlinson IV
+
 Code to extract a specific chromosome or chromosomes from a VCF file
 
 Note: Code was Developed in the Abasht Laboratory at the University of Delaware under the supervision of Dr. Behnam Abasht
