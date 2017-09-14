@@ -12,15 +12,13 @@ and a input paramter file called "Chromosome_Parameter_File.txt". A user first c
 Specifically, a user changes the input file name, desired output file name and the
 specific chromosome/chromosomes of interests, saving the newly changed paramter file without changing the name.
 
-Running of the Script
-
+#Running of the Script
 The script can be run either locally using the standard "run" procedures of python
 or on a HCP server using the standard HPC UNIX run command of "python Filter_for_Chromosomes.py"
 on the command line or qsub file. Please note if the provided VCF file is HUGE, the python program cannot be run
 on a local computer and requires an HPC setting.  
 
-General Overview of How the Program Runs
-
+#General Overview of How the Program Runs
 The program parses through the provided VCF file pulling out the header of the data and the specific data from
 the chromosomes of interest from the VCF file.
 
