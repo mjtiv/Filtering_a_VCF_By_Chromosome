@@ -29,11 +29,12 @@ Note: This is a general VCF parser script that was specifically developed to par
 time period and if new styles of VCF files are introduced the code could break. 
 
 # Files Provided in Repository
-Filter_for_Chromosomes.py (python script to run program)
-Chromosome_Parameter_File.txt (paramter file that users change to change program inputs)
+File 1. Filter_for_Chromosomes.py (python script to run program)
+File 2. Chromosome_Parameter_File.txt (paramter file that users change to change program inputs)
 
-#Example Dataset to Run
+# Example Dataset to Run
 Test_Dataset.txt (Test dataset for a user to try---simplified VCF file)
 
+# Example Output from Program
 Test_Output.txt (example output file after filtering)
 Test_Output_VCF_General_Info.txt (example overview file from program)
