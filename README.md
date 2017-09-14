@@ -41,4 +41,3 @@ Test_Dataset.txt (Test dataset for a user to try---simplified VCF file)
 
 Test_Output.txt (example output file after filtering)
 Test_Output_VCF_General_Info.txt (example overview file from program)
-
