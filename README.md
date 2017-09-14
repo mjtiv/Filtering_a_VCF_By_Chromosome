@@ -1,11 +1,8 @@
-# Filtering_a_VCF_By_Chromosome
+# Filtering_a_VCF_By_Chromosome by M. Joseph Tomlinson IV
 Code to extract a specific chromosome or chromosomes from a VCF file
 
 Note: Code was Developed in the Abasht Laboratory at the University of Delaware under the supervision of Dr. Behnam Abasht
 website: "http://canr.udel.edu/faculty/behnam-abasht/"
-
-####################################Filtering_a_VCF_By_Chromosome######################################
-#################################Code Written by M. Joseph Tomlinson IV########################################
 
 Code was written to extract a specific chromosome from a VCF. The program has two main files, a script file (Filter_for_Chromosomes.py)
 and a input paramter file called "Chromosome_Parameter_File.txt". A user first changes the parameter file to their specific inputs/outputs.
@@ -28,7 +25,7 @@ about how many variants were in the VCF file and also how many datapoints were e
 of interest. The second file is the actual data of interest extracted from the VCF file, which is made up of the header of the
 data with the specific chromosome variants.
 
-# Note: This is a general VCF parser script that was specifically developed to parse VCF files from GATK pipelines (Fall 2017)
+Note: This is a general VCF parser script that was specifically developed to parse VCF files from GATK pipelines (Fall 2017)
 time period and if new styles of VCF files are introduced the code could break. 
 
 ####################################Files Provided in Repository#######################################################
